@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(7): error C2146: syntax error: missing ')' before identifier 'str'
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(7): error C3646: 'str': unknown override specifier
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(7): error C2062: type 'int' unexpected
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(7): error C2059: syntax error: ')'
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(22): error C2660: 'URlify': function does not take 2 arguments
+  c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(7): note: see declaration of 'URlify'
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(32): error C2146: syntax error: missing ')' before identifier 'str'
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(32): error C3646: 'str': unknown override specifier
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(32): error C2062: type 'int' unexpected
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(32): error C2059: syntax error: ')'
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(33): error C2143: syntax error: missing ';' before '{'
+c:\users\grego\source\repos\c++ excersices\interviewq_3\interviewq_3\source.cpp(33): error C2447: '{': missing function header (old-style formal list?)
